@@ -7,7 +7,7 @@ function clearCache() {
 
 function init() {
     clearCache
-#    composer install --no-dev --classmap-authoritative
+    composer install --no-dev --classmap-authoritative
     clearCache
 
     return 0;
