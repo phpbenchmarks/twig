@@ -1,0 +1,9 @@
+{
+    "name": "phpbenchmarks/twig-2-2",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "twig/twig": "2.2.*",
+        "phpbenchmarks/twig": "1.1.0"
+    }
+}
