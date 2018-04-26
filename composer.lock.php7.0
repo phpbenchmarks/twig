@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "898d3374ce98a295dcdff5d196b3f010",
+    "content-hash": "9cf6ee8e8dd07800aaf23cc49e57f465",
     "packages": [
         {
-            "name": "phpbenchmarks/twig",
-            "version": "1.1.0",
+            "name": "phpbenchmarks/twig-common",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/phpbenchmarks/twig.git",
-                "reference": "46e80cd7c3439d31643693206fbd6d43a81178f0"
+                "url": "https://github.com/phpbenchmarks/twig-common.git",
+                "reference": "7dd0ef2035550a9088037e30a939c4ced2e0db26"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpbenchmarks/twig/zipball/46e80cd7c3439d31643693206fbd6d43a81178f0",
-                "reference": "46e80cd7c3439d31643693206fbd6d43a81178f0",
+                "url": "https://api.github.com/repos/phpbenchmarks/twig-common/zipball/7dd0ef2035550a9088037e30a939c4ced2e0db26",
+                "reference": "7dd0ef2035550a9088037e30a939c4ced2e0db26",
                 "shasum": ""
             },
             "require": {
@@ -28,7 +28,7 @@
             "license": [
                 "proprietary"
             ],
-            "time": "2018-04-06T08:41:55+00:00"
+            "time": "2018-04-26T13:46:52+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
