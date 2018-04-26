@@ -6,25 +6,22 @@
 
 ## What is www.phpbenchmarks.com ?
 
-You will find lot of benchmarks for PHP frameworks, ORM and libs here.
+You will find lot of benchmarks for PHP frameworks and template engines.
 
-You can compare results between Apache Bench and Siege, PHP 5.6 to 7.2 and versions of your favorites PHP code.
+You can compare results between Apache Bench and Siege, and PHP 5.6 to 7.2.
 
 ## What is this repository ?
 
-It's benchmark source code for Twig 2.3.
+It's benchmark common code for Twig benchmarks.
 
-You can find how we benchmark it [here](http://www.phpbenchmarks.com/en/benchmark-protocol.html).
+Switch branch to select your Twig major version and benchmark you want to see.
 
-Each benchmark type have their own branch :
-[Hello World](https://github.com/phpbenchmarks/twig-2-3/tree/helloworld)
+See all Twig benchmarked versions on [phpbenchmarks/twig](https://github.com/phpbenchmarks/twig).
 
-## Twig 2.3
+You can find how we benchmark on [phpbenchmarks.com](http://www.phpbenchmarks.com/en/benchmark-protocol.html).
 
-Benchmark | PHP | Request | Rq/sec | Score
---------- | --- | ------- | ------ | -----
-[Hello World](http://www.phpbenchmarks.com/en/benchmark/apache-bench/php-7.2/twig-2.3.html#benchmark-hello-world) | 7.2 | In progress | In progress | In progress
+## Benchmarks
 
-[See all benchmark results](http://www.phpbenchmarks.com/en/benchmark/apache-bench/php-7.2/twig-2.3.html)
+You can find all Twig benchmarks results on [phpbenchmarks.com](http://www.phpbenchmarks.com/en/benchmark/twig.html).
 
 Scores are too low ? Do not hesitate to create a pull request, and ask a new benchmark !
